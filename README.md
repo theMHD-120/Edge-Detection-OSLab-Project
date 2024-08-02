@@ -1,7 +1,9 @@
 ﻿# Edge-Detection-OSLab-Project
 >>> Operating Systems Laboratiry final project - Summer 2024
 
-||| In the name of ALLAH |||    
+# Project summary
+||| In the name of ALLAH ||| <br />
+---------------------------
 Seyed Mahdi Mahdavi Mortazavi <br />
 Student number: 40030490
 
