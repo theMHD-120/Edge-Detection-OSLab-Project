@@ -7,12 +7,10 @@
 Seyed Mahdi Mahdavi Mortazavi <br />
 Student number: 40030490
 
----------------------------------------------------------------------------
-
 Each image:
 With n * m pixels 
->>> n: rows
->>> m: columns 
+- n: rows
+- m: columns 
 
 image matrix = [
 [[R00, G00, B00], [R01, G01, B01], [R02, G02, B02], ..., [R0m, G0m, B0m]],
@@ -25,8 +23,6 @@ image matrix = [
 [[Rn0, Gn0, Bn0], [Rn1, Gn1, Bn1], [Rn2, Gn2, Bn2], ..., [Rnm, Gnm, Bnm]]
 ]
 
----------------------------------------------------------------------------
-
 Test both fully and partial multithreading (for different pictures) and see the result:
->>> Total taken time
->>> Obtained edges image
+- Total taken time
+- Obtained edges image
