@@ -7,7 +7,7 @@
 // ...
 
 ## About images
-- Each image, have n * m pixels:
+- Each image has n * m pixels:
   - n: rows
   - m: columns 
 
