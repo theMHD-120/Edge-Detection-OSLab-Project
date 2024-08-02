@@ -3,7 +3,7 @@
 
 # Project summary
 ||| In the name of ALLAH ||| <br />
----------------------------- <br />
+----------------------------- <br />
 // ...
 
 ## About images
