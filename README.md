@@ -25,4 +25,4 @@
 ## Results
 Test both fully and partial multithreading methods (for different pictures) and see the results:
 - Total taken time
-- Obtained edges image
+- Obtained edged image
