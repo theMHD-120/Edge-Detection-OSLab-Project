@@ -4,7 +4,7 @@
 # Project summary
 ||| In the name of ALLAH ||| <br />
 ----------------------------- <br />
-Implementation of an Image Processing and a multithreading project: Edge Detection using Python's OpenCV library (for image processing).
+Implementation of an Image Processing and a multithreading project: Edge Detection using Python's OpenCV library (for image processing). <br />
 //..
 
 ## About images
