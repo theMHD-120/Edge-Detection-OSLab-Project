@@ -45,6 +45,6 @@ In a RGB image, each color pixel is composed of three separate color components.
     [[R40, G40, B40], [R41, G41, B41], [R42, G42, B42], ..., [R4m, G4m, B4m]],
     [[R50, G50, B50], [R51, G51, B01], [R52, G52, B52], ..., [R5m, G5m, B5m]], 
     ...
-    [[Rn0, Gn0, Bn0], [Rn1, Gn1, Bn1], [Rn2, Gn2, Bn2], ..., [Rnm, Gnm, Bnm]] </pre>
+    [[Rn0, Gn0, Bn0], [Rn1, Gn1, Bn1], [Rn2, Gn2, Bn2], ..., [Rnm, Gnm, Bnm]]
   ]
   </pre>
