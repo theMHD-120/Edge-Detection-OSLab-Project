@@ -36,7 +36,7 @@ In a RGB image, each color pixel is composed of three separate color components.
   - m: columns
      
 - Image matrix = [ <br />
-   [[R00, G00, B00], [R01, G01, B01], [R02, G02, B02], ..., [R0m, G0m, B0m]], <br />
+   <tab /> [[R00, G00, B00], [R01, G01, B01], [R02, G02, B02], ..., [R0m, G0m, B0m]], <br />
    [[R10, G10, B10], [R11, G11, B11], [R12, G12, B12], ..., [R1m, G1m, B1m]], <br />
    [[R20, G20, B20], [R21, G21, B21], [R22, G22, B22], ..., [R2m, G2m, B2m]], <br />
    [[R30, G30, B30], [R31, G31, B31], [R32, G32, B32], ..., [R3m, G3m, B3m]], <br />
