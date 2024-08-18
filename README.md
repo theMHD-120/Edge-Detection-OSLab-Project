@@ -31,7 +31,7 @@ Test both fully and partial multithreading methods (for different pictures) and 
 Information of an image file and how does it considered as a matrix of some pixels. A pixel is one of the small dots or squares that make up an image on a computer screen. <BR />
 In a RGB image, each color pixel is composed of three separate color components. These components can be represented as combinations of red, green and blue (RGB), or hue, saturation and intensity (HSI). For both RGB and HSI, each component of a pixel is converted to a value from 0 to 255.
 
-- Each image has n * m pixels:
+- Each image with n * m pixels:
   - n: rows
   - m: columns
      
