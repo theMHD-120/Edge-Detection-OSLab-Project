@@ -5,7 +5,8 @@
 ||| In the name of ALLAH ||| <br />
 ----------------------------- <br />
 Implementation of an Image Processing and a multithreading project: Edge Detection using Python's OpenCV library (for image processing). <br />
-The main goal of this project is to create an edged image using the optimal and best multithreading method (for sub-matrices multiplications). For this approach, I used 3 methods for multithreading (fully and partial) which are:
+Before continuee, Please read the goal, instructions and the concept of this project from Assignment file ... <br />
+As you saw, the main goal of this project is to create an edged image using the optimal and best multithreading method (for sub-matrices multiplications). For this approach, I used 3 methods for multithreading (fully and partial) which are:
 - 1
 - 2
 - 3
