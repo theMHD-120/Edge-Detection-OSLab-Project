@@ -35,8 +35,10 @@ In a RGB image, each color pixel is composed of three separate color components.
   - n: rows
   - m: columns
      
-- Image matrix = [
-    <pre> [[R00, G00, B00], [R01, G01, B01], [R02, G02, B02], ..., [R0m, G0m, B0m]],
+- Image matrix =
+  <pre>
+  [
+    [[R00, G00, B00], [R01, G01, B01], [R02, G02, B02], ..., [R0m, G0m, B0m]],
     [[R10, G10, B10], [R11, G11, B11], [R12, G12, B12], ..., [R1m, G1m, B1m]],
     [[R20, G20, B20], [R21, G21, B21], [R22, G22, B22], ..., [R2m, G2m, B2m]],
     [[R30, G30, B30], [R31, G31, B31], [R32, G32, B32], ..., [R3m, G3m, B3m]],
@@ -45,3 +47,4 @@ In a RGB image, each color pixel is composed of three separate color components.
     ...
     [[Rn0, Gn0, Bn0], [Rn1, Gn1, Bn1], [Rn2, Gn2, Bn2], ..., [Rnm, Gnm, Bnm]] </pre>
   ]
+  </pre>
