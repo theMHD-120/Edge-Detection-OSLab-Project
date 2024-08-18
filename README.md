@@ -10,6 +10,10 @@ Before proceeding, please read the concept, purpose and instructions of this pro
 ## Methods
 As you saw, the main goal of this project is to create an edged image using the optimal and best multithreading method (for sub-matrices multiplications). For this approach, I used 3 methods for multithreading (fully and partial) which are:
 
+- Partial Multithreading:
+  - Using multithreading to calculate the each ROW of Gx and Gy matrices in parallel 
+  - Less time spend, higher performance, lower memory usage and has the more optimal result
+
 - Fully Multithreading (1D thread):
   - Using multithreading to calculate the each ELEMENT of Gx and Gy matrices in parallel
   - Compared with 2D: Less time spend, higher performance, lower memory usage and has the more optimal result
@@ -17,10 +21,6 @@ As you saw, the main goal of this project is to create an edged image using the 
 - Fully Multithreading (2D thread):
   - Using multithreading to calculate the each ELEMENT of each ROW of Gx and Gy matrices in parallel
   - Compared with 1D: More time spend, lower performance, higher memory usage and doesn't have the optimal result
-  
-- Partial Multithreading:
-  - Using multithreading to calculate the each ROW of Gx and Gy matrices in parallel 
-  - Less time spend, higher performance, lower memory usage and has the more optimal result
 
 ## Results
 Test both fully and partial multithreading methods (for different pictures) and see the results:
