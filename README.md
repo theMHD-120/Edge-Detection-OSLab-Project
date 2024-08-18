@@ -13,7 +13,12 @@ As you saw, the main goal of this project is to create an edged image using the 
 - 2
 - 3
 
-## About images
+## Results
+Test both fully and partial multithreading methods (for different pictures) and see the results:
+- Total taken time
+- Obtained edged image
+
+# About images
 - Each image has n * m pixels:
   - n: rows
   - m: columns 
@@ -28,8 +33,3 @@ As you saw, the main goal of this project is to create an edged image using the 
   ... <br />
   [[Rn0, Gn0, Bn0], [Rn1, Gn1, Bn1], [Rn2, Gn2, Bn2], ..., [Rnm, Gnm, Bnm]] <br />
   ] <br />
-
-## Results
-Test both fully and partial multithreading methods (for different pictures) and see the results:
-- Total taken time
-- Obtained edged image
