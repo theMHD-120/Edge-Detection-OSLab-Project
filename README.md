@@ -28,9 +28,12 @@ Test both fully and partial multithreading methods (for different pictures) and 
 - Obtained edged image
 
 # Image file
+Information of an image file and how does it considered as a matrix of some pixels (RGB). A pixel is one of the small dots or squares that make up an image on a computer screen.
+
 - Each image has n * m pixels:
   - n: rows
-  - m: columns 
+  - m: columns
+     
 - Image matrix = [ <br />
   [[R00, G00, B00], [R01, G01, B01], [R02, G02, B02], ..., [R0m, G0m, B0m]], <br />
   [[R10, G10, B10], [R11, G11, B11], [R12, G12, B12], ..., [R1m, G1m, B1m]], <br />
