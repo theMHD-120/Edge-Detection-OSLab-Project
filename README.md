@@ -1,9 +1,8 @@
-﻿# Edge-Detection-OSLab-Project
+### in the name of Allah
+# Edge-Detection-OSLab-Project
 >>> Operating Systems Laboratiry final project - Summer 2024
 
 # Project summary
-||| In the name of ALLAH ||| <br />
------------------------------ <br />
 Implementation of an Image Processing and a multithreading project: Edge Detection using Python's OpenCV library (to load, process and save the images). <br />
 Before proceeding, please read the concept, purpose and instructions of this project from the Assignment file.
 
